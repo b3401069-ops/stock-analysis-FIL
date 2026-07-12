@@ -1,0 +1,31 @@
+# 股票追蹤與決策輔助系統 V2.0
+# Stock Tracking & Decision Support System V2.0
+
+# Web框架
+streamlit>=1.28.0
+
+# 資料處理
+pandas>=1.5.0
+numpy>=1.21.0
+
+# 資料視覺化
+plotly>=5.10.0
+
+# 資料庫
+# sqlite3 - Python內建，無需安裝
+
+# 工具
+python-dotenv>=0.20.0
+requests>=2.28.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# 股票數據
+yfinance>=0.2.30
+
+# 科學計算（相關性分析）
+scipy>=1.11.0
+
+# 測試
+pytest>=7.1.0
+pytest-cov>=3.0.0
